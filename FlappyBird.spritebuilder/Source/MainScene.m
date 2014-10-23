@@ -46,7 +46,7 @@
     points = 0;
     _scoreLabel.visible = true;
     
-    [super initialize];
+
 }
 
 #pragma mark - Touch Handling
